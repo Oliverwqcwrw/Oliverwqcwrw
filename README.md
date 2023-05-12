@@ -17,6 +17,4 @@
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Oliverwqcwrw" /> </div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=奥利弗祝你可以天天敲代码;Wish%20you%20can%20knock%20code%20every%20day!)](https://git.io/typing-svg)
